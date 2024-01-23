@@ -1,0 +1,20 @@
+.loginform{
+    background-color: blue;
+    width: 30%;
+    height: 50%;
+    text-align: center;
+    margin: auto;
+    align-content: center;
+    padding: 5px;
+}
+.log{
+    padding: 7px;
+    border-radius: 6px;
+
+}
+.button{
+    padding: 5px 10px;
+    background-color: rgb(26, 75, 59);
+    color: aliceblue;
+    border-radius: 6px;
+}
